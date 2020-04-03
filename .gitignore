@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+LabCV_OCR/.idea/
+LabCV_OCR/test/
